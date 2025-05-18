@@ -40,7 +40,7 @@ void solve() {
       {
         if (onecount>0)
         {
-          onecount--;
+          onecount--;//decrement onecount value
         }
         else
         {
